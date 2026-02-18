@@ -1,5 +1,10 @@
 ## !Hola soy Sebastian Gutiérrez!👋
 
+Estudiante de Ingeniería de Sistemas | UNAL Colombia
+## 🛠️ Tecnologías
+- Python
+- Java
+- HTML / CSS
 <!--
 **segutierrezro-hue/segutierrezro-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
