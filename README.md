@@ -4,7 +4,7 @@
 
 ### 🎓 Estudiante de Ingeniería de Sistemas | 🇨🇴 UNAL Colombia
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmlmYWI3YjdhbWx2N2t6ZHAwYTQ2czF0NmMxMm04c3FndWVvNmd0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 
 ### 💻 Desarrollo de Software · 📊 Data · 🤖 Inteligencia Artificial
 
