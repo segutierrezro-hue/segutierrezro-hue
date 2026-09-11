@@ -38,6 +38,7 @@
 * 📚 Siempre aprendiendo y buscando nuevos retos
 * 🧠 Me interesa convertir ideas en soluciones mediante tecnología
 
+![alt text](https://seeklogo.com/vector-logo/145763/universidad-nacional-de-colombia-sede-bogota)
 ---
 
 <div align="center">
